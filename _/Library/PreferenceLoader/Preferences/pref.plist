@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = pref;
+	cell = PSLinkCell;
+	detail = prefListController;
+	icon = pref.png;
+	isController = 1;
+	label = VoiceMailRemover;
+    };
+}
