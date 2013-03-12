@@ -1,6 +1,6 @@
 %hook VoicemailNavigationController
 
-//Removing from tabbar
+//Removing from viewcontroller
 + (BOOL)shouldHideVoicemailUI{
 
 return YES;
