@@ -1,0 +1,9 @@
+Package: com.davidedj10.voicemailremover
+Name: VoicemailRemover
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove voicemail button from Phone app!
+Maintainer: davidedj10
+Author: davidedj10
+Section: Tweaks
